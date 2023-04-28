@@ -6,9 +6,9 @@
 COMMENTS
 
 This is the first script regarding the Extended Set 
-producing the results in  "Machine Learning in the 
-Prediction of Human Wellbeing", joint first authorship by Oparina, E., Kaiser, C., 
-and Gentile, N., and et al.
+producing the results in "Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+and Conchita D'Ambrosio (* equal first authors in random order).
 
 In this script, all the data engineering and wrangling operations
 needed to create the SOEP extended set are outlined.
