@@ -9,9 +9,9 @@ import numpy as np
 COMMENTS
 
 This is the sixth script in the Restricted Set producing the results in 
-"Machine Learning in the Prediction of Human
-Wellbeing", joint first authorship by Oparina, E., Kaiser, C., 
-and Gentile, N., et al.   
+"Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+and Conchita D'Ambrosio (* equal first authors in random order).
 
 Aim of this script is to start creating the Mundlak-corrected 
 datasets, used in the Panel data analysis in Appendix A2.
