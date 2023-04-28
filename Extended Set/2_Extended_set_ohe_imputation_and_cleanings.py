@@ -15,9 +15,9 @@ scaler = StandardScaler()
 COMMENTS
 
 This is the second script regarding the Extended Set 
-producing the results in  "Machine Learning in the 
-Prediction of Human Wellbeing", joint first authorship by Oparina, E., Kaiser, C., 
-and Gentile, N., and et al.
+producing the results in "Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+and Conchita D'Ambrosio (* equal first authors in random order).
 
 Aim of this script is to perform one-hot-encoding of the 
 categorival variables, plus some additional cleanings.
