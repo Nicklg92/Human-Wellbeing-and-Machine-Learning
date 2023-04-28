@@ -18,9 +18,9 @@ np.random.seed(1123581321)
 COMMENTS
 
 This is the third script regarding the Extended Set 
-producing the results in  "Machine Learning in the 
-Prediction of Human Wellbeing", joint first authorship by Oparina, E., Kaiser, C., 
-and Gentile, N., and et al.
+producing the results in  "Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+and Conchita D'Ambrosio (* equal first authors in random order).
 
 Aim of this script is to run ML algorithms on the Extended set.
 Since one year only, differently from the Restricted set, all 
