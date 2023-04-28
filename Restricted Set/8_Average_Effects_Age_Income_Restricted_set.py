@@ -21,9 +21,9 @@ np.random.seed(1123581321)
 COMMENT
 
 This is the eighth and final script of the Restricted Set producing the results in 
-"Machine Learning in the Prediction of Human
-Wellbeing", joint first authorship by Oparina, E., Kaiser, C., 
-and Gentile, N., et al.  
+"Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+and Conchita D'Ambrosio (* equal first authors in random order).
 
 Aim of this script is to compute the average effects of income
 and age in the Restricted Set 2013.
