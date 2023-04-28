@@ -1,5 +1,5 @@
 ############################################################################################
-##EIGHTH SCRIPT _ PSEUDO PARTIAL EFFECTS FOR POSITIVE AND NEGATIVE AFFECTS ON EXTENDED SET##
+##EIGHTH SCRIPT - PSEUDO PARTIAL EFFECTS FOR POSITIVE AND NEGATIVE AFFECTS ON EXTENDED SET##
 ############################################################################################
 
 import re 
