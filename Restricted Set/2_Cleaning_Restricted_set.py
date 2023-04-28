@@ -20,9 +20,9 @@ np.random.seed(123)
 COMMENTS:
 
 This is the second script of the Restricted Set producing the results in 
-"Machine Learning in the Prediction of Human
-Wellbeing", joint first authorship by Oparina, E., Kaiser, C., 
-and Gentile, N., et al.
+"Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+and Conchita D'Ambrosio (* equal first authors in random order).
 
 In this one, in particular, the aim is to clean the Restricted set of variables 
 in SOEP. Scripts for are Gallup and UKHLS are similar.
