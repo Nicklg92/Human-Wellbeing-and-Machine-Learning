@@ -9,7 +9,7 @@ import numpy as np
 COMMENTS
 
 This is a miscellanea script: we pool all the yearly datasets - 
-and the train and test individuals - to pbserve the entire 
+and the train and test individuals - to observe the entire 
 distribution of life satisfaction.
 '''
 
