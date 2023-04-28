@@ -6,8 +6,9 @@
 
 #This is the R script regarding the Extended Set 
 #to check for multicollinearity issues in the OLS estimates in 
-#"Machine Learning in the Prediction of Human Wellbeing", joint first 
-#authorship by Oparina, E., Kaiser, C., and Gentile, N., and et al..
+#"Human Wellbeing and Machine Learning" by Ekaterina Oparina* (r) Caspar Kaiser* (r) Niccolò Gentile*; 
+#Alexandre Tkatchenko, Andrew E. Clark, Jan-Emmanuel De Neve 
+#and Conchita D'Ambrosio (* equal first authors in random order).
 
 #The peculiarity of running Linear Regressions here in R using 
 #the built-in lm() function is that it tells you for which
